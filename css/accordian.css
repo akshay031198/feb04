@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: black;
+    font-family: 'noto sans', sans-serif;
+}
+
+.accordian{
+width: 300px;
+margin: 100px auto;
+
+}
+.item{
+
+}
+.sno{
+
+}
+.head-text{
+
+}
+.arrow-icon{
+    height: 20px;
+    width: 20px;
+    stroke: red;
+
+}
+.hiddden-text{
+
+}
